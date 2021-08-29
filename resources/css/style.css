@@ -27,12 +27,13 @@ p {
     font-size: 21px;
 }
 
-#camp {
-    padding-bottom: 1em;
-}
-
 footer h6 {
     font-size: 20px;
     text-align: right;
     color: gray;
 }
+
+#camp {
+    padding-bottom: 1em;
+}
+
